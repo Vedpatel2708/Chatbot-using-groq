@@ -11,7 +11,7 @@ from langchain import hub
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 # Set the GROQ API key
-os.environ['GROQ_API_KEY'] = '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'
+os.environ['GROQ_API_KEY'] = 'INSERT YOUR GROQ API KEY'
 
 # Set up Streamlit title and description
 st.title("Ved GPT ")
