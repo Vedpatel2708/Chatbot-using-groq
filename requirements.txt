@@ -1,4 +1,4 @@
-langchain[all]
+langchain_core
 langchain_groq 
 
 bs4
