@@ -1,7 +1,7 @@
 langchain_core.prompts 
 langchain_groq 
 
- bs4
+bs4
 langchain
 langchain_community.document_loaders 
 langchain_chroma 
