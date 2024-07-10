@@ -1,2 +1,3 @@
 langchain[all]
 bs4
+tiktoken
