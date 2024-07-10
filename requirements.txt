@@ -1,6 +1,6 @@
 langchain_core
 langchain_groq 
-
+pysqlite3-binary
 bs4
 langchain
 langchain_community
